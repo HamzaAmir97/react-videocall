@@ -1,6 +1,6 @@
 # React Projects Starter Kit
 
-![React Projects Banner](/react-videocall/blob/main/screenshots/1.png)
+![React Projects Banner](https://github.com/HamzaAmir97/react-videocall/tree/main/screenshots)
 
 This repository contains two complete React projects:
 2. **Video Call App** - Peer-to-peer video calling without registration
