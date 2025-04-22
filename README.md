@@ -2,8 +2,8 @@
 
 ![React Projects Banner](https://github.com/HamzaAmir97/react-videocall/blob/main/screenshots/1.png)
 
-This repository contains two complete React projects:
-2. **Video Call App** - Peer-to-peer video calling without registration
+This repository contains complete React project:
+. **Video Call App** - Peer-to-peer video calling without registration
 
 ## 📥 Quick Download
 ```bash
